@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Thắng. I have done my course at university and right now I'm interested in data and AI projects to make more professional in this field. I hope to make a great journey in career!
+
+I’m looking to collaborate on open-source projects to help me understand more about the codes.
+
+📫 How to reach me: thangsvk19@gmail.com
+
+⚡ Fun fact: I'm a very funny guy!
 <!--
 **thanggnguyenn/thanggnguyenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
