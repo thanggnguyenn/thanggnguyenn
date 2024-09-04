@@ -6,7 +6,8 @@ I’m looking to collaborate on open-source projects to help me understand more 
 
 📫 How to reach me: thangsvk19@gmail.com
 
-⚡ Fun fact: I'm a very funny guy!
+- 🔭 I’m currently working on Machine Learning projects on Kaggle to have some practical knowledge in this field.
+
 <!--
 **thanggnguyenn/thanggnguyenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
