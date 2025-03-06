@@ -10,11 +10,11 @@ I’m looking to collaborate on open-source projects to help me understand more 
 
 **My skills**
 
-1. Data preprocessing: this is one of my best skills so far. You'll see in my repositories that I had many projects that concentrated on data preprocessing. I studied carefully how to handle with data: check and filling missing values, feature engineer data, etc.
+**1. Data preprocessing:** this is one of my best skills so far. You'll see in my repositories that I had many projects that concentrated on data preprocessing. I studied carefully how to handle with data: check and filling missing values, feature engineer data, etc.
 
-2. Machine Learning: Most problems I encountered so far is in tabular form. Therefore, I applied machine learning for tabular data.
+**2. Machine Learning:** Most problems I encountered so far is in tabular form. Therefore, I applied machine learning for tabular data.
 
-3. Data Engineering: I learned about data pipelines, containerization and cloud services.
+**3. Data Engineering:** I learned about data pipelines, containerization and cloud services.
 
 You can check out my repositories for more details!
 
